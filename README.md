@@ -1,8 +1,8 @@
-# Vrinda-Store-Data-Analysis(Create Interactive Dashboard Using Ms Excel)
+# Retail-Store-Data-Analysis(Create Interactive Dashboard Using Ms Excel)
 
 ## Objective:
 
-Vrinda store wants to create an annual report for 2022. So that, Vrinda can Understand their customers and grow more sales in 2023.
+Retail store wants to create an annual report for 2022. So that, Vrinda can Understand their customers and grow more sales in 2023.
 
 ## Quetions (KPIs):
 
@@ -30,7 +30,7 @@ Vrinda store wants to create an annual report for 2022. So that, Vrinda can Unde
 - Adult age group (30-39 years) is max contributing (~50%)
 - Amazon, Flipkart and Myntra channels are max contributing
   
-## Final Conclusion to improve Vrinda store sales:
+## Final Conclusion to improve Retail store sales:
 
 Target women customers af age group (30-49 years) living in Maharashtra, Karanataka and Uttar Pradesh by showing ads/offers/coupons availables on Amazon, Flipkart and Myntra
 

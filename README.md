@@ -13,7 +13,8 @@ Retail store wants to create an annual report for 2022. So that, Vrinda can Unde
 - List top 10 states contributing to the sales.
 - Relation between age and gender based on number sales.
 - Which channel is contributing to maximum sales.
-- Highest selling category. <img width="2106" height="911" alt="Sales Dashboard " src="https://github.com/user-attachments/assets/dcbe8256-b389-45cb-8436-d3d820bd56fa" />
+- Highest selling category. <img width="1241" height="580" alt="image" src="https://github.com/user-attachments/assets/d538a0b2-2f73-4efb-a421-21e8160762aa" />
+
 
 
 ## Process:
